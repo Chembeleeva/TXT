@@ -1,1 +1,11 @@
-
+Summary
+Project
+Component
+Author
+Version
+Severity
+Priority
+Step to Reproduce
+Actual Result
+Expected Result
+Additional information
