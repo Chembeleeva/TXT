@@ -1,0 +1,4 @@
+favorite movie: Pretty Woman,
+favorite TV seriel: La casa de papel,
+favorite season: summer,
+country you want to visit :Thailand
